@@ -1,4 +1,4 @@
-# Iconnect Interview Problem Solved
+# Successive Technology Interview Task
 
 Please follow the instructions mentioned here to run the Express API application.
 
